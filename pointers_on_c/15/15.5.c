@@ -16,5 +16,5 @@ main(void)
           exit(EXIT_FAILURE);
        }
     fclose(f1);
-    return 0;
+    return 0;  
 }
